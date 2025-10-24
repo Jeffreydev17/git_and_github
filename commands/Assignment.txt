@@ -1,0 +1,1 @@
+Write at least 10 lists of git commands and linux commands each in this current folder and push to your github repository.
